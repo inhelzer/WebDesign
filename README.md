@@ -34,7 +34,8 @@ https://drive.google.com/drive/u/0/folders/1EaAjOv2vPwu4JfyHbX-2bONQ9JAzMj35
 https://docs.google.com/spreadsheets/d/1FFthQLpAesTEiHamV98ydOTJ-wo3nmcNl8OXq71GpPA/edit?usp=drive_link
 <br>
 
-##Election
+## Election
+
 פלטפורמה
 GPT Pages
 <br>
