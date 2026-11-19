@@ -70,16 +70,7 @@ https://docs.google.com/spreadsheets/d/1U_UvdpfIOSH49fC2abCOyjs6yygAvtacifanCWv6
 https://sites.google.com/hadash-holon.org.il/arcade01/עמוד-הבית
 <br>
 סטטוס מעבר
-עמוד הבית ועמוד פרויקט פלטפורמר בכיתה י׳ הועברו לאתר החדש. יתר העמודים עדיין מקושרים לאתר המקורי.
-<br>
-עמוד פלטפורמר באתר החדש
-https://inhelzer.github.io/arcade01-site/grade-10/platformer/
-<br>
-תיקיית מדיה — עמוד הבית
-https://github.com/inhelzer/arcade01-media/tree/main/home
-<br>
-תיקיית מדיה — פלטפורמר
-https://github.com/inhelzer/arcade01-media/tree/main/platformer
+כל מה שעוד לא עבר, עדיין מקושק לעמוד הקודם.
 <br>
 מפת אתר למנועי חיפוש
 https://inhelzer.github.io/arcade01-site/sitemap.xml
