@@ -1,5 +1,25 @@
 # WebDesign
 
+## Alt cntrl
+פלטפורמה
+Git Pages
+<br>
+כתובת אתר מפורסם
+https://inhelzer.github.io/AltCtrl/
+<br>
+רפוזיטורי ניהול האתר
+--------
+<br>
+רפוזיטורי מדיה
+--------
+<br>
+תיקייה דרייב
+--------
+<br>
+טבלת שליטה
+--------
+<br>
+
 ## Sheba Game Jam
 פלטפורמה
 Gpt Pages
