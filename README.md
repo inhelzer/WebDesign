@@ -94,3 +94,12 @@ https://drive.google.com/drive/folders/1xG6YnYA6pfhty43PquUXIi-nJ6A1tcBM
 מצגת תכנון האתר והערות
 https://docs.google.com/presentation/d/1mfiPQmzos5pcAeQh7Z50swdlxCZYsrror8NSuLOI2Og/edit
 <br>
+
+## Wood Car Studio
+פלטפורמה
+Gpt Pages
+<br>
+כתובת אתר מפורסם
+https://wood-car-studio-25.inhelzer.chatgpt.site/
+<br>
+
