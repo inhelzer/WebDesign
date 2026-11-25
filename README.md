@@ -77,8 +77,7 @@ https://inhelzer.github.io/arcade01-site/sitemap.xml
 <br>
 <br>
 
-
-## ארץ ישראל שלי
+## Eretz Israel Sheli
 
 פלטפורמה
 GitHub Pages
