@@ -75,7 +75,23 @@ https://sites.google.com/hadash-holon.org.il/arcade01/עמוד-הבית
 מפת אתר למנועי חיפוש
 https://inhelzer.github.io/arcade01-site/sitemap.xml
 <br>
-נושאים להמשך טיפול
-הטמעות כרטיסי המשחקים מ־itch.io מציגות לעיתים שגיאת 429. הוצע להחליפן בתמונות וקישורים ישירים; השינוי טרם בוצע.
-חיבור ל־Google Search Console והגשת מפת האתר טרם בוצעו.
+<br>
+
+
+## ארץ ישראל שלי
+
+פלטפורמה
+GitHub Pages
+<br>
+כתובת אתר מפורסם
+https://inhelzer.github.io/Eretz_Israel_Sheli/
+<br>
+רפוזיטורי ניהול האתר
+https://github.com/inhelzer/Eretz_Israel_Sheli
+<br>
+תיקיית חומרים בדרייב
+https://drive.google.com/drive/folders/1xG6YnYA6pfhty43PquUXIi-nJ6A1tcBM
+<br>
+מצגת תכנון האתר והערות
+https://docs.google.com/presentation/d/1mfiPQmzos5pcAeQh7Z50swdlxCZYsrror8NSuLOI2Og/edit
 <br>
